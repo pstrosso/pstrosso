@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pstrosso
-- 🌱 I’m currently learning Data Analysis with Python and SQL
+- 🌱 I’m currently learning Python Programming and Data Analysis with Python and SQL
 
 
 <!---
